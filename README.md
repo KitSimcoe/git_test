@@ -1,0 +1,1 @@
+This is kit's first git project!
